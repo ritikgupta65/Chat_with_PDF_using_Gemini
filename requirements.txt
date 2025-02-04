@@ -6,3 +6,5 @@ python-dotenv
 langchain
 # chromadb
 faiss-cpu
+langchain-core
+langchain-community
